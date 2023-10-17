@@ -1,0 +1,120 @@
+title:Attempt TryHard
+description:Speedrunner's Shopping List 
+
+// Xenophage
+//notes: Ranged hitscan bursts Universal
+dimwishlist:item=1395261499&perks=
+
+// The Wardcliff Coil
+//notes: Melting vehicle bosses Universal
+dimwishlist:item=1508896098&perks=
+
+// Eriana's Vow
+//notes: "Rapid piercing damage Destroying oracles Death Throes stacking" VoG, Duality, VotD
+dimwishlist:item=3524313097&perks=
+
+// Bastion
+//notes: "Object destruction Intrinsic Unstoppable" DSC, Prophecy, Lake of Shadows, etc.
+dimwishlist:item=2415517654&perks=
+
+// Arbalest
+//notes: "Single target piercing damage Intrinsic Barrier" GoS, GMs
+dimwishlist:item=2130065553&perks=
+
+// Anarchy
+//notes: Trapping spawns VoG, DSC
+dimwishlist:item=2376481550&perks=
+
+// Witherhoard
+//notes: Trapping spawns Universal
+dimwishlist:item=2357297366&perks=
+
+// Trinity Ghoul
+//notes: Low health rapid add clear Universal
+dimwishlist:item=814876685&perks=
+
+// Tractor Cannon
+//notes: "Swappable 10s 30% debuff Enemy displacement" Universal
+dimwishlist:item=3580904581&perks=
+
+// The Fourth Horseman
+//notes: Imprecise single target burst Universal
+dimwishlist:item=1665952087&perks=
+
+// Salvation's Grip
+//notes: "Blocking spawn points Creating terrain" VotD, KF, RoN
+dimwishlist:item=370712896&perks=
+
+// Parasite
+//notes: Extremely high burst Universal
+dimwishlist:item=2812324400&perks=
+
+// Lumina
+//notes: Providing 35% buff Universal
+dimwishlist:item=3512014804&perks=
+
+// Izanagi's Burden
+//notes: Ranged single target burst Universal
+dimwishlist:item=3211806999&perks=
+
+// Gjallarhorn
+//notes: "Tracking splash damage Granting Wolfpack rounds" Universal
+dimwishlist:item=1363886209&perks=
+
+// Xenoclast IV
+//notes: "One-two punch Pellet swapping" Universal Vanguard pool
+dimwishlist:item=2891672170&perks=1300023272,106909392,1631667848,2679249093
+dimwishlist:item=2891672170&perks=1300023272,106909392,1631667848,1546637391
+dimwishlist:item=2891672170&perks=1300023272,106909392,1556840489,2679249093
+dimwishlist:item=2891672170&perks=1300023272,106909392,1556840489,1546637391
+dimwishlist:item=2891672170&perks=1300023272,106909392,3300816228,2679249093
+dimwishlist:item=2891672170&perks=1300023272,106909392,3300816228,1546637391
+dimwishlist:item=2891672170&perks=1300023272,106909392,2869569095,2679249093
+dimwishlist:item=2891672170&perks=1300023272,106909392,2869569095,1546637391
+
+// Without Remorse
+//notes: "One-two punch Pellet swapping" Universal Craft
+dimwishlist:item=1478986057&perks=1300023272,106909392,494941759,788178929
+dimwishlist:item=1478986057&perks=1300023272,106909392,494941759,3418165135
+dimwishlist:item=1478986057&perks=1300023272,106909392,2308090567,788178929
+dimwishlist:item=1478986057&perks=1300023272,106909392,2308090567,3418165135
+
+// Wastelander M5
+//notes: "One-two punch Major burst" Universal Dares of Eternity
+dimwishlist:item=1679868061&perks=1300023272,106909392,3442762221,788178929
+dimwishlist:item=1679868061&perks=1300023272,106909392,3442762221,3418165135
+
+// The Supremacy
+//notes: "Quick ranged hitscan kills Augmenting boss damage" Universal Last Wish
+dimwishlist:item=2884596447&perks=1840239774,1087426260,1563455254,848860060
+dimwishlist:item=2884596447&perks=1840239774,1087426260,1563455254,3744057135
+dimwishlist:item=2884596447&perks=1840239774,1087426260,1563455254,1549370717
+dimwishlist:item=2884596447&perks=1840239774,1087426260,4116820839,1549370717
+dimwishlist:item=2884596447&perks=1840239774,1087426260,4116820839,3744057135
+dimwishlist:item=2884596447&perks=1840239774,1087426260,4116820839,848860060
+dimwishlist:item=2884596447&perks=1840239774,1087426260,3442762221,848860060
+dimwishlist:item=2884596447&perks=1840239774,1087426260,3442762221,3744057135
+dimwishlist:item=2884596447&perks=1840239774,1087426260,3442762221,1549370717
+dimwishlist:item=2884596447&perks=1840239774,1087426260,906981559,1549370717
+dimwishlist:item=2884596447&perks=1840239774,1087426260,906981559,3744057135
+dimwishlist:item=2884596447&perks=1840239774,1087426260,906981559,848860060
+
+// The Militia's Birthright
+//notes: Blinding enemies Universal Vanguard pool
+dimwishlist:item=1854753405&perks=3525010810,3032599245,2039302152,3300816228
+dimwishlist:item=1854753405&perks=3525010810,3032599245,2039302152,4104185692
+dimwishlist:item=1854753405&perks=3525010810,3032599245,1556840489,4104185692
+dimwishlist:item=1854753405&perks=3525010810,3032599245,1556840489,3300816228
+
+// The Hothead
+//notes: Burst splash damage Universal Vanguard pool
+dimwishlist:item=4255171531&perks=3525010810,3796465595,3300816228,3194351027
+dimwishlist:item=4255171531&perks=3525010810,3796465595,3300816228,2284787283
+dimwishlist:item=4255171531&perks=3525010810,3796465595,3300816228,3927722942
+dimwishlist:item=4255171531&perks=3525010810,3796465595,3523296417,3927722942
+dimwishlist:item=4255171531&perks=3525010810,3796465595,3523296417,2284787283
+dimwishlist:item=4255171531&perks=3525010810,3796465595,3523296417,3194351027
+dimwishlist:item=4255171531&perks=3525010810,3796465595,2869569095,3194351027
+dimwishlist:item=4255171531&perks=3525010810,3796465595,2869569095,3927722942
+dimwishlist:item=4255171531&perks=3525010810,3796465595,2869569095,2284787283
+
