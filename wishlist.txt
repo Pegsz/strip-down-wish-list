@@ -2,7 +2,7 @@ title:Attempt TryHard
 description:Speedrunner's Shopping List 
 
 // Xenophage
-//notes: Ranged hitscan bursts Universal
+//notes: Ranged hitscan bursts Universal test this
 dimwishlist:item=1395261499&perks=
 
 // The Wardcliff Coil
